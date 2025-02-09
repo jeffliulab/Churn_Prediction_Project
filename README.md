@@ -1,4 +1,15 @@
-https://github.com/jeffliulab/Churn_Prediction_Project
+# Predict Customer Churn
 
-This is a MLOps project for predicting credit card churn to practice my MLOps skills.
+- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+
+## Project Description
+Your project description here.
+
+## Files and data description
+Overview of the files and data present in the root directory. 
+
+## Running Files
+How do you run your files? What should happen when you run your files?
+
+
 

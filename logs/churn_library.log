@@ -1,0 +1,13 @@
+root - INFO - SUCCESS: Data imported successfully from ./data/bank_data.csv
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS: Data imported successfully from ./data/bank_data.csv
+root - INFO - SUCCESS: EDA performed and images saved successfully
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - SUCCESS: Data imported successfully from ./data/bank_data.csv
+root - INFO - SUCCESS: Encoded 5 categorical columns
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - SUCCESS: Data imported successfully from ./data/bank_data.csv
+root - INFO - SUCCESS: Encoded 5 categorical columns
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - SUCCESS: Data imported successfully from ./data/bank_data.csv
+root - INFO - SUCCESS: Encoded 5 categorical columns
