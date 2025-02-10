@@ -8,6 +8,7 @@ This module contains functions for customer churn prediction modeling, including
 - Model training (Random Forest and Logistic Regression)
 - Model evaluation and result visualization
 
+Author: Pang Liu
 Date: February 2025
 """
 

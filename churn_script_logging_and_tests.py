@@ -2,6 +2,7 @@
 This module contains test functions for churn_library.py 
 and implements logging functionality.
 
+Author: Pang Liu
 Date: February 2025
 """
 
